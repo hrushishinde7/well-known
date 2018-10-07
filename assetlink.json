@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kisan.samvaad.dev",
+    "sha256_cert_fingerprints":
+    ["09:BA:4F:5D:FD:E7:E4:A5:D8:7C:EA:9D:3D:F3:F4:0E:DC:34:E0:35:B2:90:42:9E:8B:D0:AC:37:10:E4:E0:F7"]
+  }
+}]
